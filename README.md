@@ -1,4 +1,4 @@
-# adb command
+<h1 align="center">adb command</h1>
 
 adb command on the shell
 
