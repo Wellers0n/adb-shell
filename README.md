@@ -4,8 +4,8 @@ adb command on the shell
 
 # Used in the shell
 
-- Options reload
-Into of directory default to execute options reload `./adb-options.sh`
+- Options reload <br/>
+Into of directory default to execute options reload `./adb-options.sh`<br/><br/>
 
-- Reverse
-Into of directory default to execute reverse `./adb-reverse.sh`
+- Reverse<br/>
+Into of directory default to execute reverse `./adb-reverse.sh`<br/><br/>
