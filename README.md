@@ -1,6 +1,6 @@
 <h1 align="center">adb command</h1>
 
-adb command on the shell
+<p align="center">adb command on the shell</p>
 
 # Used in the shell
 
